@@ -18,7 +18,7 @@ Getting Started
 Clone the Repository:
 
 
-git clone https://github.com/yourusername/diabetes-prediction-model.git
+git clone https://github.com/ranesh88/Diabetes-Prediction-Model.git
 cd diabetes-prediction-model
 Set Up Virtual Environment:
 
